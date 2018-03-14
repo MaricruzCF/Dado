@@ -1,0 +1,10 @@
+c:\users\michelita\source\repos\Dado\Dado\bin\Debug\Dado.exe.config
+c:\users\michelita\source\repos\Dado\Dado\bin\Debug\Dado.exe
+c:\users\michelita\source\repos\Dado\Dado\bin\Debug\Dado.pdb
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.csprojResolveAssemblyReference.cache
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.Form1.resources
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.Properties.Resources.resources
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.csproj.GenerateResource.Cache
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.exe
+c:\users\michelita\source\repos\Dado\Dado\obj\Debug\Dado.pdb
